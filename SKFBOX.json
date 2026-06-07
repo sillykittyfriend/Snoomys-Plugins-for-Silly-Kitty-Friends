@@ -1,20 +1,23 @@
-[
-  {
-    "Author": "Snoomy",
-    "Name": "ChecklistXIV",
-    "InternalName": "ChecklistXIV",
-    "AssemblyVersion": "1.0.0.0",
-    "TestingAssemblyVersion": null,
-    "RepoUrl": "https://github.com/sillykittyfriend/ChecklistXIV",
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": 13,
-    "Punchline": "Make your list and check it twice!",
-    "Description": "A plugin to help you plan out your goals and check them off upon completion",
-    "IsHide": false,
-    "IsTestingExclusive": false,
-    "DownloadLinkInstall": "https://github.com/sillykittyfriend/ChecklistXIV/releases/download/Release/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/sillykittyfriend/ChecklistXIV/releases/download/Release/latest.zip",
-    "DownloadLinkTesting": null,
-    "LastUpdate": 1780704000
-  }
-]
+{
+  "Author": "Snoomy",
+  "Name": "ChecklistXIV",
+  "InternalName": "ChecklistXIV",
+  "AssemblyVersion": "0.0.0.1",
+  "Description": "A plugin to help you plan out your goals and check them off upon completion",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "Checklist",
+    "glamour",
+    "Achievement"
+  ],
+  "DalamudApiLevel": 15,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "Punchline": "Make your list and check it twice!",
+  "AcceptsFeedback": true
+  "DownloadLinkInstall": "https://github.com/sillykittyfriend/ChecklistXIV/releases/download/Release/latest.zip",
+  "DownloadLinkUpdate": "https://github.com/sillykittyfriend/ChecklistXIV/releases/download/Release/latest.zip",
+  "DownloadLinkTesting": null,
+}
