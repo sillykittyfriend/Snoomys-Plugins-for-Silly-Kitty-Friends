@@ -1,14 +1,15 @@
-{
-
-  "Author": "Snoomy",
-  "Name": "ChecklistXIV",
-  "Punchline": "Make your list and check it twice!",
-  "Description": "A plugin to help you plan out your goals and check them off upon completion",
-  "ApplicableVersion": "any",
-  "RepoUrl": "https://github.com/sillykittyfriend/ChecklistXIV",
-  "Tags": [
-    "Checklist",
-    "glamour",
-    "Achievement"
-  ]
-}
+[
+  {
+    "Author": "Snoomy",
+    "Name": "ChecklistXIV",
+    "InternalName": "ChecklistXIV",
+    "AssemblyVersion": "1.0.0.0",
+    "TestingAssemblyVersion": "1.0.0.0",
+    "Punchline": "Make your list and check it twice!",
+    "Description": "A plugin to help you plan out your goals and check them off upon completion",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/sillykittyfriend/ChecklistXIV",
+    "DownloadCount": 0,
+    "LastUpdate": 1780704000
+  }
+]
