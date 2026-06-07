@@ -12,8 +12,8 @@
     "Description": "A plugin to help you plan out your goals and check them off upon completion",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "DownloadLinkInstall": "https://github.com/sillykittyfriend/ChecklistXIV/releases/latest/download/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/sillykittyfriend/ChecklistXIV/releases/latest/download/latest.zip",
+    "DownloadLinkInstall": "https://github.com/sillykittyfriend/ChecklistXIV/releases/download/Release/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/sillykittyfriend/ChecklistXIV/releases/download/Release/latest.zip",
     "DownloadLinkTesting": null,
     "LastUpdate": 1780704000
   }
