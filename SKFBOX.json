@@ -17,9 +17,9 @@
   "CanUnloadAsync": false,
   "LoadPriority": 0,
   "Punchline": "Make your list and check it twice!",
-  "AcceptsFeedback": true
+  "AcceptsFeedback": true,
   "DownloadLinkInstall": "https://github.com/sillykittyfriend/ChecklistXIV/releases/download/Release/latest.zip",
   "DownloadLinkUpdate": "https://github.com/sillykittyfriend/ChecklistXIV/releases/download/Release/latest.zip",
-  "DownloadLinkTesting": null,
+  "DownloadLinkTesting": null
 }
 ]
