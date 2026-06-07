@@ -1,4 +1,5 @@
-{
+[
+  {
   "Author": "Snoomy",
   "Name": "ChecklistXIV",
   "InternalName": "ChecklistXIV",
@@ -21,3 +22,4 @@
   "DownloadLinkUpdate": "https://github.com/sillykittyfriend/ChecklistXIV/releases/download/Release/latest.zip",
   "DownloadLinkTesting": null,
 }
+]
