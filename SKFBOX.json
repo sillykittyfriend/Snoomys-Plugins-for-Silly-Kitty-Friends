@@ -7,7 +7,7 @@
     "TestingAssemblyVersion": null,
     "RepoUrl": "https://github.com/sillykittyfriend/ChecklistXIV",
     "ApplicableVersion": "any",
-    "DalamudApiLevel": 13,
+    "DalamudApiLevel": 15,
     "Punchline": "Make your list and check it twice!",
     "Description": "A plugin to help you plan out your goals and check them off upon completion",
     "IsHide": false,
